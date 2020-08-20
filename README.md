@@ -1,7 +1,7 @@
-# SimpleTodoList
+# todo-list
+App Simples Lista de Tarefas utilizando NodeJS
 
-Minha primeira aplicação desenvolvida em Node JS, trata-se de uma Todo List simples com visualização, inserção e remoção de itens para adquirir alguns conceitos simples da framework.
 
-Foi criada utilizando os pacotes 'Body Parser', 'Express', 'EJS' e 'Mongoose'.
+Esta aplicação trata-se de um objeto de estudos da framework NodeJS. Foi criada seguindo os tutoriais para iniciantes desenvolvidos por 'Shaun', do canal do youtube 'The Net Ninja', que ensina diversos conteúdos sobre as tecnologias utilizadas no desenvolvimento front-end e Full Stack.
 
-Sua realização só foi possível graças ao guia para iniciantes em Node feito pelo youtuber e professor 'Shaun', proprietário do canal The Net Ninja.
+A aplicação possui algumas dependencias, sendo elas os pacotes 'Express', 'EJS', 'Body Parser' e 'Mongoose' todas instaladas através do gerenciador de pacotes NPM. O Aplicativo utiliza a base de dados MongoDB para o armazenamento das informações.
